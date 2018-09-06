@@ -1,0 +1,5 @@
+D:\Projects\MaiMedia\VisualData\bin\VisualData.dll.config
+D:\Projects\MaiMedia\VisualData\bin\VisualData.dll
+D:\Projects\MaiMedia\VisualData\bin\VisualData.pdb
+D:\Projects\MaiMedia\VisualData\obj\Debug\VisualData.dll
+D:\Projects\MaiMedia\VisualData\obj\Debug\VisualData.pdb
